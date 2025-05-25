@@ -1,0 +1,8 @@
+repository_url: https://github.com/tsekov7/civilmanuscript
+branch: main
+files:
+  - ofl/civilmanuscript/Civil Manuscript.ttf
+  - ofl/civilmanuscript/METADATA.pb
+  - ofl/civilmanuscript/FONTLOG .txt
+  - ofl/civilmanuscript/OFL.txt
+type: git
