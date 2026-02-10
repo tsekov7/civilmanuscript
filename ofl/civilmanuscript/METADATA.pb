@@ -13,7 +13,7 @@ fonts: {
   filename: "Civil Manuscript.ttf"
   post_script_name: "CivilManuscript"
   full_name: "Civil Manuscript"
-  copyright: "Copyright 2025 Tseko Tsekov and 2015 The Great Vibes Pro Project Authors. Licensed under the SIL Open Font License, Version 1.1."
+  copyright: "Copyright 2025 Tseko Tsekov. Licensed under the SIL Open Font License, Version 1.1."
 }
 subsets: "cyrillic"
 subsets: "cyrillic-ext"

@@ -10,14 +10,6 @@ It includes extended Cyrillic characters and historical glyphs such as ѣ, ѫ, �
 
 The internatioanl name of the font is „Civil Manuscript“, and the original name in Cyrillic is „Граждански рѫкописъ“.
 
-Some glyphs in "Civil Manuscript" are based on or derived from the following open-licensed font(s):
-
-Font Name: Great Vibes
-Author(s): The Great Vibes Pro Project Authors (https://github.com/googlefonts/great-vibes)
-License: SIL Open Font License, Version 1.1
-URL: https://github.com/googlefonts/great-vibes 
-These glyphs were adapted in accordance with the terms of the OFL license, and this derivative font remains under the same license. 
-
 
 License:
 This font is licensed under the SIL Open Font License, Version 1.1.
