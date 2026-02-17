@@ -1,0 +1,1 @@
+All releases of Civil Manuscript font family are placed at [Local Fonts](https://localfonts.eu/shop/cyrillic-script/handwritten-cyrillic-script/civil-manuscript/). Please follow the link.

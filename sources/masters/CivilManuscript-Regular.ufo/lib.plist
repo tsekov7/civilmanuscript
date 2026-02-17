@@ -99,7 +99,7 @@
     <string>uni0402</string>
     <string>uni0403</string>
     <string>uni0405</string>
-    <string>afii10055</string>
+    <string>uni0406</string>
     <string>uni0407</string>
     <string>uni0408</string>
     <string>uni0409</string>
@@ -108,75 +108,73 @@
     <string>uni040C</string>
     <string>uni040D</string>
     <string>uni040F</string>
-    <string>afii10017</string>
-    <string>afii10018</string>
-    <string>afii10019</string>
-    <string>afii10020</string>
-    <string>afii10021</string>
-    <string>afii10022</string>
-    <string>afii10024</string>
-    <string>afii10025</string>
-    <string>afii10026</string>
-    <string>afii10027</string>
-    <string>afii10028</string>
-    <string>afii10029</string>
-    <string>afii10030</string>
-    <string>afii10031</string>
-    <string>afii10032</string>
-    <string>afii10033</string>
-    <string>afii10034</string>
-    <string>afii10035</string>
-    <string>afii10036</string>
-    <string>afii10037</string>
-    <string>afii10038</string>
-    <string>afii10039</string>
-    <string>afii10040</string>
-    <string>afii10041</string>
-    <string>afii10042</string>
-    <string>afii10043</string>
-    <string>afii10044</string>
+    <string>uni0410</string>
+    <string>uni0411</string>
+    <string>uni0412</string>
+    <string>uni0413</string>
+    <string>uni0414</string>
+    <string>uni0415</string>
+    <string>uni0416</string>
+    <string>uni0417</string>
+    <string>uni0418</string>
+    <string>uni0419</string>
+    <string>uni041A</string>
+    <string>uni041B</string>
+    <string>uni041C</string>
+    <string>uni041D</string>
+    <string>uni041E</string>
+    <string>uni041F</string>
+    <string>uni0420</string>
+    <string>uni0421</string>
+    <string>uni0422</string>
+    <string>uni0423</string>
+    <string>uni0424</string>
+    <string>uni0425</string>
+    <string>uni0426</string>
+    <string>uni0427</string>
+    <string>uni0428</string>
+    <string>uni0429</string>
+    <string>uni042A</string>
     <string>uni044B</string>
-    <string>afii10046</string>
-    <string>uni042D</string>
-    <string>afii10048</string>
-    <string>afii10049</string>
-    <string>afii10065</string>
-    <string>afii10066</string>
-    <string>afii10067</string>
-    <string>afii10068</string>
-    <string>afii10069</string>
-    <string>afii10070</string>
-    <string>afii10072</string>
-    <string>afii10073</string>
-    <string>afii10074</string>
-    <string>afii10075</string>
-    <string>afii10076</string>
-    <string>afii10077</string>
-    <string>afii10078</string>
-    <string>afii10079</string>
-    <string>afii10080</string>
-    <string>afii10081</string>
-    <string>afii10082</string>
-    <string>afii10083</string>
-    <string>afii10084</string>
-    <string>afii10085</string>
-    <string>afii10086</string>
-    <string>afii10087</string>
-    <string>afii10088</string>
-    <string>afii10089</string>
-    <string>afii10090</string>
-    <string>afii10091</string>
-    <string>afii10092</string>
-    <string>afii10094</string>
-    <string>afii10095</string>
-    <string>afii10096</string>
-    <string>afii10097</string>
+    <string>uni042C</string>
+    <string>uni042E</string>
+    <string>uni042F</string>
+    <string>uni0430</string>
+    <string>uni0431</string>
+    <string>uni0432</string>
+    <string>uni0433</string>
+    <string>uni0434</string>
+    <string>uni0435</string>
+    <string>uni0436</string>
+    <string>uni0437</string>
+    <string>uni0438</string>
+    <string>uni0439</string>
+    <string>uni043A</string>
+    <string>uni043B</string>
+    <string>uni043C</string>
+    <string>uni043D</string>
+    <string>uni043E</string>
+    <string>uni043F</string>
+    <string>uni0440</string>
+    <string>uni0441</string>
+    <string>uni0442</string>
+    <string>uni0443</string>
+    <string>uni0444</string>
+    <string>uni0445</string>
+    <string>uni0446</string>
+    <string>uni0447</string>
+    <string>uni0448</string>
+    <string>uni0449</string>
+    <string>uni044A</string>
+    <string>uni044C</string>
+    <string>uni044E</string>
+    <string>uni044F</string>
     <string>uni0450</string>
     <string>uni0451</string>
     <string>uni0452</string>
     <string>uni0453</string>
     <string>uni0455</string>
-    <string>afii10103</string>
+    <string>uni0456</string>
     <string>uni0457</string>
     <string>uni0458</string>
     <string>uni0459</string>
@@ -185,8 +183,8 @@
     <string>uni045C</string>
     <string>uni045D</string>
     <string>uni045F</string>
-    <string>afii10146</string>
-    <string>afii10194</string>
+    <string>uni0462</string>
+    <string>uni0463</string>
     <string>uni046A</string>
     <string>uni046B</string>
     <string>uni046C</string>
@@ -204,6 +202,12 @@
     <string>uni2029</string>
     <string>uni2116</string>
     <string>uniFEFF</string>
+    <string>dieresis</string>
+    <string>uni0308</string>
+    <string>grave</string>
+    <string>uni0300</string>
+    <string>acute</string>
+    <string>uni0301</string>
   </array>
 </dict>
 </plist>

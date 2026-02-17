@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis maximum="1000" tag="wght" name="weight" default="400" minimum="1">
+  <axis maximum="1000" default="400" tag="wght" minimum="1" name="weight">
    <labelname xml:lang="en">Weight</labelname>
    <map input="1" output="1"/>
    <map input="400" output="400"/>
@@ -9,7 +9,7 @@
   </axis>
  </axes>
  <sources>
-  <source stylename="Regular" filename="masters/CivilManuscript-Regular.ufo" familyname="Civil Manuscript" name="Regular">
+  <source familyname="Civil Manuscript" filename="masters/CivilManuscript-Regular.ufo" stylename="Regular" name="Regular">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
