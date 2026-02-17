@@ -27,8 +27,6 @@
   </array>
   <key>italicAngle</key>
   <integer>0</integer>
-  <key>macintoshFONDName</key>
-  <string>Civil Manuscript</string>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>
@@ -47,19 +45,10 @@
   <string>2025/05/06 08:24:48</string>
   <key>openTypeHeadFlags</key>
   <array>
-    <integer>0</integer>
-    <integer>1</integer>
-    <integer>3</integer>
   </array>
-  <key>openTypeHeadLowestRecPPEM</key>
-  <integer>8</integer>
   <key>openTypeHheaAscender</key>
   <integer>977</integer>
   <key>openTypeHheaCaretOffset</key>
-  <integer>-0</integer>
-  <key>openTypeHheaCaretSlopeRise</key>
-  <integer>1</integer>
-  <key>openTypeHheaCaretSlopeRun</key>
   <integer>-0</integer>
   <key>openTypeHheaDescender</key>
   <integer>-565</integer>
@@ -170,33 +159,11 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <string>Civil Manuscript</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
-  <key>openTypeNameRecords</key>
-  <array>
-  <dict>
-    <key>nameID</key>
-    <integer>4</integer>
-    <key>platformID</key>
-    <integer>3</integer>
-    <key>encodingID</key>
-    <integer>1</integer>
-    <key>languageID</key>
-    <integer>1026</integer>
-    <key>string</key>
-    <string>Граждански рѫкописъ</string>
-  </dict>
-  </array>
-  <key>openTypeNameUniqueID</key>
-  <string>2025 Civil Manuscript</string>
   <key>openTypeNameVersion</key>
-  <string>1.00</string>
+  <string>Version 1.003</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>2</integer>
-  </array>
-  <key>openTypeOS2FamilyClass</key>
-  <array>
-    <integer>0</integer>
-    <integer>0</integer>
   </array>
   <key>openTypeOS2Panose</key>
   <array>
@@ -294,7 +261,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>0</integer>
+  <integer>3</integer>
   <key>xHeight</key>
   <integer>219</integer>
 </dict>
