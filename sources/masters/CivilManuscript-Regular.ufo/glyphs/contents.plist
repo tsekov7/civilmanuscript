@@ -58,6 +58,8 @@
   <string>X_.glif</string>
   <key>Y</key>
   <string>Y_.glif</string>
+  <key>Ylongcyr</key>
+  <string>Y_longcyr.glif</string>
   <key>Z</key>
   <string>Z_.glif</string>
   <key>a</key>
@@ -72,6 +74,10 @@
   <string>at.glif</string>
   <key>b</key>
   <string>b.glif</string>
+  <key>brevecyr</key>
+  <string>brevecyr.glif</string>
+  <key>brevecyr.case</key>
+  <string>brevecyr.case.glif</string>
   <key>c</key>
   <string>c.glif</string>
   <key>colon</key>
@@ -204,6 +210,8 @@
   <string>uni0402.glif</string>
   <key>uni0403</key>
   <string>uni0403.glif</string>
+  <key>uni0404</key>
+  <string>uni0404.glif</string>
   <key>uni0405</key>
   <string>uni0405.glif</string>
   <key>uni0406</key>
@@ -222,6 +230,8 @@
   <string>uni040C_.glif</string>
   <key>uni040D</key>
   <string>uni040D_.glif</string>
+  <key>uni040E</key>
+  <string>uni040E_.glif</string>
   <key>uni040F</key>
   <string>uni040F_.glif</string>
   <key>uni0410</key>
@@ -280,6 +290,8 @@
   <string>uni042A_.glif</string>
   <key>uni042C</key>
   <string>uni042C_.glif</string>
+  <key>uni042D</key>
+  <string>uni042D_.glif</string>
   <key>uni042E</key>
   <string>uni042E_.glif</string>
   <key>uni042F</key>
@@ -342,6 +354,8 @@
   <string>uni044B_.glif</string>
   <key>uni044C</key>
   <string>uni044C_.glif</string>
+  <key>uni044D</key>
+  <string>uni044D_.glif</string>
   <key>uni044E</key>
   <string>uni044E_.glif</string>
   <key>uni044F</key>
@@ -398,6 +412,8 @@
   <string>uni2116.glif</string>
   <key>uniFEFF</key>
   <string>uniF_E_F_F_.glif</string>
+  <key>ushortcyr</key>
+  <string>ushortcyr.glif</string>
   <key>v</key>
   <string>v.glif</string>
   <key>w</key>

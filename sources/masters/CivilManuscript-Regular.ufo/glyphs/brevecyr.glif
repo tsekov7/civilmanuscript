@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecyr" format="2">
+  <advance width="281"/>
+  <outline>
+    <contour>
+      <point x="110" y="286" type="curve" smooth="yes"/>
+      <point x="167" y="286"/>
+      <point x="221" y="333"/>
+      <point x="221" y="392" type="curve" smooth="yes"/>
+      <point x="221" y="411"/>
+      <point x="208" y="459"/>
+      <point x="185" y="459" type="curve" smooth="yes"/>
+      <point x="183" y="459"/>
+      <point x="177" y="454"/>
+      <point x="177" y="451" type="curve" smooth="yes"/>
+      <point x="177" y="442"/>
+      <point x="179" y="430"/>
+      <point x="183" y="415" type="curve" smooth="yes"/>
+      <point x="187" y="401"/>
+      <point x="189" y="391"/>
+      <point x="189" y="386" type="curve" smooth="yes"/>
+      <point x="189" y="361"/>
+      <point x="142" y="314"/>
+      <point x="122" y="314" type="curve" smooth="yes"/>
+      <point x="119" y="314"/>
+      <point x="117" y="315"/>
+      <point x="116" y="318" type="curve" smooth="yes"/>
+      <point x="115" y="320"/>
+      <point x="115" y="326"/>
+      <point x="115" y="335" type="curve" smooth="yes"/>
+      <point x="115" y="360"/>
+      <point x="108" y="373"/>
+      <point x="93" y="373" type="curve" smooth="yes"/>
+      <point x="81" y="373"/>
+      <point x="60" y="354"/>
+      <point x="60" y="333" type="curve" smooth="yes"/>
+      <point x="60" y="305"/>
+      <point x="83" y="286"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
+  </dict>
+  </lib>
+</glyph>

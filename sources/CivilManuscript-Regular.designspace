@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis maximum="1000" default="400" tag="wght" minimum="1" name="weight">
+  <axis name="weight" tag="wght" default="400" maximum="1000" minimum="1">
    <labelname xml:lang="en">Weight</labelname>
-   <map input="1" output="1"/>
-   <map input="400" output="400"/>
-   <map input="1000" output="1000"/>
+   <map output="1" input="1"/>
+   <map output="400" input="400"/>
+   <map output="1000" input="1000"/>
   </axis>
  </axes>
  <sources>
-  <source familyname="Civil Manuscript" filename="masters/CivilManuscript-Regular.ufo" stylename="Regular" name="Regular">
+  <source filename="masters/CivilManuscript-Regular.ufo" name="Regular" stylename="Regular" familyname="Civil Manuscript">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension xvalue="400" name="weight"/>
+    <dimension name="weight" xvalue="400"/>
    </location>
   </source>
  </sources>
