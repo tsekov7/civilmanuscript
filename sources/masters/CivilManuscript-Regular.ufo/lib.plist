@@ -208,6 +208,14 @@
     <string>uni0300</string>
     <string>acute</string>
     <string>uni0301</string>
+    <string>Ylongcyr</string>
+    <string>uni042D</string>
+    <string>uni044D</string>
+    <string>uni0404</string>
+    <string>brevecyr.case</string>
+    <string>brevecyr</string>
+    <string>uni040E</string>
+    <string>ushortcyr</string>
   </array>
 </dict>
 </plist>

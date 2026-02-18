@@ -32,15 +32,12 @@
       <point x="184" y="301"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="260"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=60</string>
   <key>com.fontlab.metricsRight</key>
   <string>=60</string>
-  <key>public.markColor</key>
-  <string>0.6,0.602,1,1</string>
   </dict>
   </lib>
 </glyph>
